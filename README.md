@@ -1,7 +1,7 @@
 [ReadMe.md](https://github.com/user-attachments/files/34139066/ReadMe.md)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0%3A283048%2C100%3A859398&section=header&reversal=true&text=Keerthana+J&textBg=false&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&desc=Computer+Science+%7C+Data+Science+%7C+AI&descSize=14&descAlign=50&descAlignY=64" width="100%" alt="Keerthana J - Computer Science, Data Science and AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0%3A283048%2C100%3A859398&section=header&reversal=true&text=Keerthana+J&textBg=false&fontColor=FFFFFF&fontSize=42&fontAlign=23&fontAlignY=38&animation=twinkling&rotate=0&strokeWidth=0&desc=Computer+Science+%7C+Data+Science+%7C+AI&descSize=14&descAlign=78&descAlignY=61" width="100%" alt="Keerthana J - Computer Science, Data Science and AI" />
 </p>
 # 💫 About Me:
 Hi! I'm Keerthana, a Computer Science Engineering student specializing in Data Science, passionate about building software and exploring the world of AI.<br><br>- 🔭 Currently working on **InterviewAI**, an AI-powered mock interview platform.<br>- 🌱 Learning **Python, Data Structures & Algorithms, Full-Stack Development, and AI/ML**.<br>- 🛠️ Exploring technologies like **FastAPI, React, PostgreSQL, Git, and Generative AI**.<br>- 💡 Interested in **Artificial Intelligence, Data Science, and Software Engineering**.<br>- 🤝 Enjoy collaborating on projects, exploring open-source, and learning by building.<br>- 🎯 Goal: Turn ideas into practical solutions and grow into a skilled software professional.<br><br>**Always learning. Always building.** 🚀
