@@ -28,10 +28,17 @@ An AI-powered platform designed to help students practise interviews, work with 
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Keerthana-J-1404&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Keerthana-J-1404&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Keerthana-J-1404&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=Keerthana-J-1404&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Keerthana-J-1404&theme=github-dark-blue&hide_border=true&background=0D1117&ring=859398&fire=859398&currStreakLabel=859398" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Keerthana-J-1404&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Keerthana-J-1404&limit=5&theme=dark&combine_all_yearly_contributions=true)
