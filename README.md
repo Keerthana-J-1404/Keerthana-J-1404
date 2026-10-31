@@ -5,7 +5,7 @@
 </p>
 💫 About Me:
 <br>
-Heyy! I'm **Keerthana**, a Computer Science Engineering student specializing in Data Science, passionate about building software and exploring the world of AI.<br><br>🔭 Currently working on **InterviewAI**, an AI-powered mock interview platform.<br>🌱 Learning **Python, Data Structures & Algorithms, Full-Stack Development, and AI/ML**.<br>🛠️ Exploring technologies like **FastAPI, React, PostgreSQL, Git, and Generative AI**.<br>💡 Interested in **Artificial Intelligence, Data Science, and Software Engineering**.<br>🤝 Enjoy collaborating on projects, exploring open-source, and learning by building.<br>🎯 Goal: Turn ideas into practical solutions and grow into a skilled software professional.<br><br>**Always learning. Always building.** 🚀
+Heyy! I'm *Keerthana*, a Computer Science Engineering student specializing in Data Science, passionate about building software and exploring the world of AI.<br><br>🔭 Currently working on *InterviewAI*, an AI-powered mock interview platform.<br>🌱 Learning *Python, Data Structures & Algorithms, Full-Stack Development, and AI/ML*.<br>🛠️ Exploring technologies like *FastAPI, React, PostgreSQL, Git, and Generative AI*.<br>💡 Interested in *Artificial Intelligence, Data Science, and Software Engineering*.<br>🤝 Enjoy collaborating on projects, exploring open-source, and learning by building.<br>🎯 Goal: Turn ideas into practical solutions and grow into a skilled software professional.<br><br>*Always learning. Always building.* 🚀
 
 ## 🚀 Featured Projects
 
